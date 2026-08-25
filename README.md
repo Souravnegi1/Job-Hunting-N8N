@@ -424,9 +424,7 @@ job-hunting-automation/
 
 
 
-!\[Telegram Job Results](https://raw.githubusercontent.com/Souravnegi1/Job-Hunting-N8N/main/screenshots/03-telegram-output.png) 
-
-├── .gitignore
+!\[Telegram Job Results](https://raw.githubusercontent.com/Souravnegi1/Job-Hunting-N8N/main/screenshots/03-telegram-output.png)├── .gitignore
 
 ├── README.md
 
