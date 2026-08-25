@@ -402,29 +402,27 @@ job-hunting-automation/
 
 
 
-\### n8n Workflow
+<h3>n8n Workflow</h3>
 
 
 
-!\[n8n Workflow](https://raw.githubusercontent.com/Souravnegi1/Job-Hunting-N8N/main/screenshots/01-workflow-overview.png)
+<img src="https://raw.githubusercontent.com/Souravnegi1/Job-Hunting-N8N/main/screenshots/01-workflow-overview.png" alt="n8n Workflow" width="100%">
 
 
 
-\### FastAPI Fetch Jobs
+<h3>FastAPI Fetch Jobs</h3>
 
 
 
-!\[FastAPI Fetch Jobs](https://raw.githubusercontent.com/Souravnegi1/Job-Hunting-N8N/main/screenshots/02-fetch-jobs-api.png)
+<img src="https://raw.githubusercontent.com/Souravnegi1/Job-Hunting-N8N/main/screenshots/02-fetch-jobs-api.png" alt="FastAPI Fetch Jobs" width="100%">
 
 
 
-\### Telegram Job Results
+<h3>Telegram Job Results</h3>
 
 
 
-!\[Telegram Job Results](https://raw.githubusercontent.com/Souravnegi1/Job-Hunting-N8N/main/screenshots/03-telegram-output.png)
-
-├──  ├── .gitignore
+<img src="https://raw.githubusercontent.com/Souravnegi1/Job-Hunting-N8N/main/screenshots/03-telegram-output.png" alt="Telegram Job Results" width="100%">├──  ├── .gitignore
 
 ├── README.md
 
