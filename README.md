@@ -400,15 +400,33 @@ job-hunting-automation/
 
 │
 
-├── screenshots/
+├──  ## Screenshots
 
-│   ├── 01-workflow-overview.png
 
-│   ├── 02-fetch-jobs-api.png
 
-│   └── 03-telegram-output.png
+\### n8n Workflow
 
-│
+
+
+!\[n8n Workflow](./screenshots/01-workflow-overview.png)
+
+
+
+\### FastAPI Fetch Jobs
+
+
+
+!\[FastAPI Fetch Jobs](./screenshots/02-fetch-jobs-api.png)
+
+
+
+\### Telegram Job Results
+
+
+
+!\[Telegram Job Results](./screenshots/03-telegram-output.png)
+
+│   
 
 ├── .gitignore
 
