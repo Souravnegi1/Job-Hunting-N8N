@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated job data
+python_jobs.json
+jobs.json
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
